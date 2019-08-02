@@ -1,0 +1,21 @@
+.formContainer {
+    width: 70%;
+    margin: 20px auto;
+}
+
+.formContainer textarea {
+    resize: none;
+    margin: 10px 0;
+    height: 150px;
+}
+
+.formContainer button {
+    float: right;
+}
+
+.clearfix {
+    display: block;
+    visibility: hidden;
+    height: 0;
+    clear: both;
+}

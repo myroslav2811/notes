@@ -1,0 +1,38 @@
+.note{
+    background-color: #61dafb;
+    color: #fff;
+    height: auto;
+    word-wrap: break-word;
+}
+
+.notes>div{
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+.notes p {
+    padding: 20px;
+    margin: 10px;
+}
+
+.notes{
+    display: block;
+    height: auto;
+    padding: 0;
+    margin: 0;
+}
+
+.closeIcon{
+    position: absolute;
+    right: 20px;
+    top: 15px;
+    cursor: pointer;
+}
+
+.editIcon{
+    position: absolute;
+    right: 18px;
+    top: 35px;
+    cursor: pointer;
+}
